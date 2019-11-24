@@ -1,6 +1,6 @@
 ---
 title: "FRAILBot testing in the tomato field"
-excerpt: "Testing of FRAILBot in a harvested tomato field<br/><img src='/images/frailbot_tmd.jpg'>"
+excerpt: "Testing of FRAILBot in a harvested tomato field<br/><img src='/images/frailbot_tmd.png'>"
 collection: portfolio
 ---
 
