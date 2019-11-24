@@ -3,7 +3,7 @@ title: "ENG102 Dynamics (Discussion Session)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-3
-venue: "UC, Davis, College of Engineering"
+venue: "University of California, Davis"
 date: 2019-09-15
 location: "Davis, CA"
 ---
