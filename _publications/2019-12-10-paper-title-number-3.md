@@ -4,7 +4,7 @@ collection: publications
 permalink: 
 excerpt: 'This paper is about modeling of predictive scheduling of crop-transport robots'
 date: 2019-12-11
-venue: ''
+venue: 'Computers and Electronics in Agriculture'
 paperurl: 
 citation: 
 ---
