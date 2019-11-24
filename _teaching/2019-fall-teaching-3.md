@@ -1,5 +1,5 @@
 ---
-title: "ENG102 Dynamics"
+title: "ENG102 Dynamics (Discussion Session)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-3

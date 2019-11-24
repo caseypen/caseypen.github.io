@@ -1,5 +1,5 @@
 ---
-title: "EME 172 Automatic Control of Engineering Systems"
+title: "EME 172 Automatic Control of Engineering Systems (TA)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-fall-teaching-1

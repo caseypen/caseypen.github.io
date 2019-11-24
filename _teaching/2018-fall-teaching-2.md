@@ -1,5 +1,5 @@
 ---
-title: "ENG 154 Mechtronics"
+title: "ENG 154 Mechtronics (Lab session)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-teaching-2
