@@ -11,30 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical and Automation Engineering, Hohai University, 2008
+* M.S. in Naval and Ocean Engineering, Zhejiang University, 2015
+* Ph.D in Mechanical and Aerospace Engineering, University of California, Davis, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring, Winter 2016: Research Assistant
+  * University of California, Davis
+  * Duties included: Software development of education robots 
+  * Supervisor: [Harry H. Cheng](https://faculty.engineering.ucdavis.edu/cheng/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Research Assistant
+  * University of California, Davis
+  * Duties included: Motion control of agriculture robotics
+  * Supervisor: [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/)
+
+* Fall 2018: Research Assistant
+  * University of California, Davis
+  * Duties included: Data Driven Simulation of strawberry harvesting activities
+  * Supervisor: [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 
+
+* Summer 2019: Research Assistant
+  * University of California, Davis
+  * Duties included: Navigation of crop-transport robots in the strawberry field
+  * Supervisor: [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in [ROS package development](http://wiki.ros.org/) (C++/Python)
+* Experienced in mathematical modeling of vehicle logistics problems; 
+  * Online heuristic discrete optimization;
+  * Gurobi solver;
+  * CPLEX solver;
+* Experienced in RTK-GPS based localization solution;
+  * Vehicle Model based state estimation with other sensor data; 
+  * Sensor fusion of IMU and Odometry (visual odometry/wheel odometry); 
+* Experienced in navigation of mobile robots in the agricultrural field;
+  * Software-based Ackerman steering control; 
+  * Path planning (Dubins, RRT);
+  * Path tracking (Pure-pursuit, MPC);
 
 Publications
 ======
@@ -53,7 +69,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
