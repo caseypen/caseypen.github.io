@@ -1,6 +1,6 @@
 ---
-title: "FRAILBot movability testing on the lawn"
-excerpt: "Testing of FRAILBot on the lawn <br/><img src='/images/harvesting_simulator.png'>"
+title: "Visualization of strawberry harvesting activity"
+excerpt: "Visualization of strawberry harvesting activity <br/><img src='/images/harvesting_simulator.png'>"
 collection: portfolio
 ---
 <br/><img src='/images/harvesting_simulator.png'>"
