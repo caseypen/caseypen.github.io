@@ -19,4 +19,4 @@ Research Project Topics:
 
 Biography
 ======
-Chen Peng received his Diploma in Mechanical and Electric Engineering from the Hohai University in Jiangsu, China (2012).  He received his M.S in Naval and Ocean Engineering from the Zhejiang University in Hangzhou, China (2015). He is pursuing Ph.D degree in Agricultural Robotics and Automation (Mechanical and Aerospace Engineering, University of California, Davis). His advisor of Ph. D program is [Dr. Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 
+Chen Peng received his bachelor's degree in Mechanical and Electric Engineering from the Hohai University in Jiangsu, China (2012).  He received his M.S in Naval and Ocean Engineering from the Zhejiang University in Hangzhou, China (2015). He is pursuing Ph.D degree in Agricultural Robotics and Automation (Mechanical and Aerospace Engineering, University of California, Davis). His advisor of Ph. D program is [Dr. Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 
