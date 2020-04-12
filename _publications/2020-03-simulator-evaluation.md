@@ -1,7 +1,7 @@
 ---
 title: "Collaboration of Human Pickers and Crop-transporting Robots during Harvesting - PartII: Simulator Evaluation and Robot-Scheduling Case-study"
 collection: publications
-permalink: /publication/simulator-evaluation-2020-3-11
+permalink: /publication/2020-03-simulator-evaluation
 excerpt: 'Harvest-aid robots that transport empty and full trays during manual harvesting of specialty crops such as strawberries or table grapes can increase harvest efficiency, by reducing pickers' non-productive walking times. In Part I of this work, a modeling framework, and a stochastic simulator were presented for all-manual and robot-aided harvesting. This paper reports Part II of our work, which utilized data gathered in two strawberry fields during harvesting, to estimate the stochastic parameters involved in modeling pickers, and evaluate the prediction accuracy of the simulator for all-manual picking. Then, as a case study, non-productive time and harvest efficiency were estimated for robot-aided harvesting, for various picker-robot ratios and three priority-based reactive dispatching strategies for the robots.'
 date: 2020-3-11
 venue: 'Computers and Electronics in Agriculture'
