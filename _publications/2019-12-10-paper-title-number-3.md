@@ -1,8 +1,8 @@
 ---
-title: "Deterministicpredictivedynamic scheduling for crop-transport co-1robots acting as harvestingaids"
+title: "Deterministic predictive dynamic scheduling for crop-transport robots acting as harvesting-aids"
 collection: publications
-permalink: In this paper,dynamic predictive scheduling was modeled for teams of robots carrying trays during 41manual harvesting. The times and locations of the tray-transportrequestswere assumed to be known 42exactly (deterministic predictions). Near-optimal scheduling was implemented to provide efficiency 43upper-boundsfor any predictive scheduling algorithms that incorporateuncertainty inthe predictive 44requests. Robot-aidedharvesting was simulated using manual-harvest data collected from a commercial 45picking crew. Scheduling performance was studied as a function of the number of robots –for a given 46crew size –and as a function of robot speed. Additionally, the effect of the earliness of the availability of 47thepredictionson performance was studied.
-excerpt: 'This paper is under review by the editors fo the journal'
+permalink: /publication/2019-10-11-paper-title-number-3
+excerpt: 'In this paper,dynamic predictive scheduling was modeled for teams of robots carrying trays during manual harvesting. The times and locations of the tray-transportrequestswere assumed to be known 42exactly (deterministic predictions). Near-optimal scheduling was implemented to provide efficiency 43upper-boundsfor any predictive scheduling algorithms that incorporateuncertainty inthe predictive 44requests. Robot-aidedharvesting was simulated using manual-harvest data collected from a commercial 45picking crew. Scheduling performance was studied as a function of the number of robots –for a given 46crew size –and as a function of robot speed. Additionally, the effect of the earliness of the availability of 47thepredictionson performance was studied.'
 date: 2020-05-11
 venue: 'Computers and Electronics in Agriculture'
 paperurl: 
