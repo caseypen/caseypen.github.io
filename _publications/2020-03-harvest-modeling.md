@@ -1,7 +1,7 @@
 ---
 title: "Collaboration of Human Pickers and Crop-transporting Robots during Harvesting - Part I: Model and Simulator Development"
 collection: publications
-permalink: /publication/2020-03-harvest-modelings
+permalink: /publication/2020-03-harvest-modeling
 excerpt: 'Some specialty crops, such as strawberries and table grapes, are harvested by large crews of pickers who spend significant amounts of time carrying empty and full (with the harvested crop) trays. A step toward increasing harvest automation for such crops is to deploy harvest-aid robots that transport the empty and full trays, thus increasing harvest efficiency by reducing pickers’ non-productive walking times.'
 date: 2020-03-11
 venue: 'Computers and Electronics in Agriculture'
