@@ -1,7 +1,7 @@
 ---
-title: "Visualization of strawberry harvesting activity"
+title: "Simulation of strawberry harvesting activity"
 excerpt: "Visualization of strawberry harvesting activity <br/><img src='/images/harvesting_simulator.png' width='300pt'>"
 collection: portfolio
 ---
 <br/><img src='/images/harvesting_simulator.png'>
-The simulator of strawberry harvesting activity under the assistance of crop-transporting robots.
+<br/>The simulator of strawberry harvesting activity under the assistance of crop-transporting robots.

@@ -4,4 +4,4 @@ excerpt: "Testing of FRAILBot on the lawn <br/><img src='/images/frailbot_mov.pn
 collection: portfolio
 ---
 <br/><img src='/images/frailbot_mov.png'>
-The movability of the FRAILBot is tested on the campus of UC, Davis.
+<br/>The movability of the FRAILBot is tested on the campus of UC, Davis.
