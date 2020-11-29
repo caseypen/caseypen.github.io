@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This homepage is academic road map of Chen Peng since 2017 in the Bio-automation lab from UC, Davis. His Ph.D. project is design, development and implementation of Co-robotic harvest-aiding system in the field of fragile fruit, like strawberries and table grapes. His research interests includes:
-* Modeling of human and robot activities in the field operations;
-* Optimized online scheduling of robotic vehicles;
-* Implementation of integrated field operation system in the agricultural activities;
+This homepage is academic road map of Chen Peng since 2017 in the [Bio-automation lab](https://faculty.engineering.ucdavis.edu/vougioukas/research/lab-members/) from UC, Davis. His Ph.D. project is design, development and implementation of Co-robotic harvest-aiding system in the field of fragile fruit, like strawberries and table grapes. His research interests includes:
+* **Modeling** of human and robot activities in the field operations;
+* Optimized **online scheduling** of robotic vehicles;
+* Implementation of **robotic field operation system** in the agricultural activities;
 
 Research Project Topics:
 ======
-1. Design and Control of Fragile cRop hArvest-aIding mobiLe robots (FRAIL-Bots);
-2. Data-driven python-simulator of manual & robot-aiding strawberry harvesting;
-3. Online scheduling algorithm processing stochastic and dynamic transport requests;
+1. Design and Control of Fragile cRop hArvest-aIding mobiLe robots **(FRAIL-Bots)**;
+2. Data-driven simulator of manual & robot-aiding strawberry harvesting;
+3. **Online scheduling** algorithm processing stochastic and dynamic transport requests;
 4. Implementation of harves-aiding system in the commercial strawberry field;
 5. Design of crop-transport robots in the vineyard;
 
