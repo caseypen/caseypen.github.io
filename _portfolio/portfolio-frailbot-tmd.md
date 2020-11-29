@@ -4,4 +4,6 @@ excerpt: "Testing of FRAILBot in a harvested tomato field<br/><img src='/images/
 collection: portfolio
 ---
 <br/><img src='/images/frailbot_tmd.png'>
-<br/>The movability of the FRAILBot is tested in the tomato field of UC, Davis.
+<br/>
+
+The movability of the **FRAIL-Bot** is tested in the tomato field of UC, Davis.
