@@ -1,6 +1,6 @@
 ---
 title: "FRAILBot navigation rule on the headland"
-excerpt: "Navigation rule of multiple robots on the headland <br/><img src='/images/frailbot_headland.png'>"
+excerpt: "Navigation rule of multiple robots on the headland <br/><img src='/images/frailbot_headland.png' width='300pt'>"
 collection: portfolio
 ---
 <img src='/images/frailbot_headland.png'>

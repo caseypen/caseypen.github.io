@@ -1,6 +1,6 @@
 ---
 title: "FRAILBot movability testing on the lawn"
-excerpt: "Testing of FRAILBot on the lawn <br/><img src='/images/frailbot_mov.png'>"
+excerpt: "Testing of FRAILBot on the lawn <br/><img src='/images/frailbot_mov.png' width='300pt'>"
 collection: portfolio
 ---
 <br/><img src='/images/frailbot_mov.png'>

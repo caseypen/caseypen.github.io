@@ -86,7 +86,7 @@ author:
   location         : "Davis, CA"
   employer         : "UC, Davis"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=ZnLKC3MAAAAJ&hl=en
   email            : penchen@ucdavis.edu
   researchgate     : 
   uri              :
@@ -100,9 +100,9 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/pengchen-robotics/
   orcid            : 
   pinterest        :
   soundcloud       :

@@ -1,6 +1,6 @@
 ---
 title: "Visualization of strawberry harvesting activity"
-excerpt: "Visualization of strawberry harvesting activity <br/><img src='/images/harvesting_simulator.png'>"
+excerpt: "Visualization of strawberry harvesting activity <br/><img src='/images/harvesting_simulator.png' width='300pt'>"
 collection: portfolio
 ---
 <br/><img src='/images/harvesting_simulator.png'>
