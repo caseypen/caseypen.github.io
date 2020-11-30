@@ -2,6 +2,7 @@
 title: "Simulation of strawberry harvesting activity"
 excerpt: "<img src='/images/harvesting_simulator.png' width='300pt'>"
 collection: portfolio
+date: 2018-01-05
 ---
 <br/><img src='/images/simulation.gif'>
 

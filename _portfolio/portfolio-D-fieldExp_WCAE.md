@@ -2,6 +2,8 @@
 title: "Harvest-aiding system testing in the campus field "
 excerpt: <img src='/images/two_frailbots.png' width='300pt'>"
 collection: portfolio
+date: 2020-06-05
+location: "Davis, CA"
 ---
 <br/><img src='/images/fieldWorkingWCAE.gif'>
 

@@ -2,6 +2,8 @@
 title: "System testing in Lompoc field"
 excerpt: "<img src='/images/systemLompoc.png' width='300pt'>"
 collection: portfolio
+date: 2020-10-28
+location: "Lompoc, CA"
 ---
 <img src='/images/fieldworkingLompoc.gif'>
 <br/>

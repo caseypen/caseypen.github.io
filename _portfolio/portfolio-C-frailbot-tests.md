@@ -2,6 +2,8 @@
 title: "FRAIL-Bot navigation testing"
 excerpt: "<img src='/images/frailbot_mov.png' width='300pt'>"
 collection: portfolio
+date: 2018-05-21
+location: "Salinas, CA"
 ---
 <br/><img src='/images/frailbot_mov.png'>
 <br/>
