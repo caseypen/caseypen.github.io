@@ -1,5 +1,5 @@
 ---
-title: "FRAIL-Bot movability testing"
+title: "FRAIL-Bot navigation testing"
 excerpt: "<img src='/images/frailbot_mov.png' width='300pt'>"
 collection: portfolio
 ---
@@ -8,12 +8,12 @@ collection: portfolio
 
 The movability of the **FRAIL-Bot** is tested on the campus of UC, Davis.
 
-<br/><img src='/images/frailbot_tmd.png'>
+<br/><img src='/images/frailbot_tmd.png' width='600pt'>
 <br/>
 
 The movability of the **FRAIL-Bot** is tested in the tomato field of Davis.
 
-<br/><img src='/images/frailbot_nav.png'>
+<br/><img src='/images/frailbot_nav.png' width='600pt'>
 <br/>
 
 The movability of the **FRAIL-Bot** is tested in the strawberry field of Salinas.

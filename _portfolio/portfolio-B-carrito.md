@@ -1,6 +1,6 @@
 ---
-title: "An instrumented carrito for yield mapping in a strawberry field"
-excerpt: "Testing of carrito in a strawberry field<br/> <img src='/images/carrito_in_field.jpg' width='300pt'>"
+title: "An instrumented carrito for yield mapping of strawberry field"
+excerpt: "<img src='/images/carrito_in_field.jpg' width='300pt'>"
 collection: portfolio
 ---
 <br/><img src='/images/carrito.png'>
