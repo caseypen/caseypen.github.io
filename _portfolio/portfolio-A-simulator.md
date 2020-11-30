@@ -8,6 +8,6 @@ date: 2018-01-05
 
 The simulator of strawberry harvesting activity under the assistance of **FRAIL-Bots**. 
 
-<br/><img src='/images/dataCollection.jpg' width='150pt'><img src='/images/dataCollection2.jpg' width='150pt'>
+<br/><img src='/images/dataCollection.jpg' width='200pt' height='200pt'>   <img src='/images/dataCollection2.jpg' width='200pt' height='200pt'>
 
 Data collection for modeling of harvesting activity parameters.
