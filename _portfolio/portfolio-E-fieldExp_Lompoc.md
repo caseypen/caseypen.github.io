@@ -10,6 +10,11 @@ location: "Lompoc, CA"
 
 Harvest-aiding system test in the strawberryf field in Lompoc.
 
+<img src='/images/pickerLoad.gif'>
+<br/>
+
+Human picker signaled robot back after loading their full trays on it.
+
 <img src='/images/systemLompoc.png' width='300pt'>
 <br/>
 
