@@ -6,14 +6,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Field work"
+    url: /portfolio/
+    
   - title: "Talks"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Field work"
-    url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
