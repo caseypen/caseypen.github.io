@@ -16,7 +16,7 @@ main:
     url: /teaching/    
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /_posts/
     
   - title: "CV"
     url: /cv/
