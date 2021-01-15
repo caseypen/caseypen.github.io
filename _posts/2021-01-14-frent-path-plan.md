@@ -1,7 +1,7 @@
 ---
 title: 'Path Planning in Frenet Frame '
 date: 2021-01-14
-permalink: /posts/2021/01/rtk-gps/
+permalink: /posts/2021/01/FrenetFrame/
 tags:
   - Frenet–Serret frame;
   - Polynomial path planning;
@@ -25,23 +25,24 @@ In the rectangle coordinate, the curve can be expressed with $f(x,y)=0$. If we i
 When there is an object moving in a 2D space, we can express the motion in the inertial frame with rectangle coordinates (x-y). The motion can be separated into two 1-D motions (along x and y) and combine them to the actual motion. Take velocity as an example, $\vec{v_x}+\vec{v_y}=\vec{v}$. Similarly, we can also express the motion in the Frenet Frame which is also inertial. As a result, the components to express the reference segment position on the curve is a function of time: $s(t)$ and the other components ($d$,$\vec{t_r}$,$\vec{n_r}$) are also the function of time.
 When we build a path planning to follow a global path, we can design its motion along $d$ and $s$ so that the planned path can be achieved to meet the requirements of the offset (d) to the path, as well as the velocity and acceleration on the path.
 
-## 3. Transformation between rectangle coordinates (x-y) and Frenet Frame coordinates (s-d)
+## Transformation between rectangle coordinates (x-y) and Frenet Frame coordinates (s-d)
 The motion transformation from x-y coordinate to Frenet Frame is essential, as we need to decide the start planning point in the Frenent Frame.
 1. The position conversion:
-* $s,d → x,y$: 
-  - $\vec{x}=\vec{r}+d\vec{n_r}$, where $\vec{n_r}$ and $\vec{r}$ can be obtained from the parameterized curve.
+  * $s,d → x,y$: 
+    - $\vec{x}=\vec{r}+d\vec{n_r}$, where $\vec{n_r}$ and $\vec{r}$ can be obtained from the parameterized curve.
 
-* $x,y → s,d$: (the method is for discretized curve, the analytical expression is more accurate)
-  - The nearest point to (x,y), $\vec{x}$ in 2D space is the reference point $\vec{r}(s)$, given $\vec{r}(s)$ we can also calculate the norm vector $\vec{n_r}$, so $d = (\vec{x}-\vec{r})^T\vec{n_r}$ ;
-  - $s$ is the parameter arc segment;
+  * $x,y → s,d$: (the method is for discretized curve, the analytical expression is more accurate)
+    - The nearest point to (x,y), $\vec{x}$ in 2D space is the reference point $\vec{r}(s)$, given $\vec{r}(s)$ we can also calculate the norm vector $\vec{n_r}$, so $d = (\vec{x}-\vec{r})^T\vec{n_r}$ ;
+    - $s$ is the parameter arc segment;
+
 2. The velocity conversion:
-* $v,\theta$ → $\dot{s},\dot{d}$:
-  - $\theta_r$($\vec{t_r}$ to the x-axis) and $\kappa_r$ are obtained from the curve feature in the position conversion;
-  - $\dot{d}=vsin(\theta - \theta_r)$
-  - $\dot{s}=\frac{vcos(\theta - \theta_r)}{1-\kappa_rd}$
-* $\dot{s},\dot{d}$ → $v,\theta$:
-  - $v=\sqrt{\dot{s}^2(1-\kappa_rd)^2+\dot{d}^2}$
-  - $\theta=arccos(\frac{\dot{s}(1-\kappa_rd)}{v}+\theta_r)$
+  * $v,\theta$ → $\dot{s},\dot{d}$:
+    - $\theta_r$($\vec{t_r}$ to the x-axis) and $\kappa_r$ are obtained from the curve feature in the position conversion;
+    - $\dot{d}=vsin(\theta - \theta_r)$
+    - $\dot{s}=\frac{vcos(\theta - \theta_r)}{1-\kappa_rd}$
+  * $\dot{s},\dot{d}$ → $v,\theta$:
+    - $v=\sqrt{\dot{s}^2(1-\kappa_rd)^2+\dot{d}^2}$
+    - $\theta=arccos(\frac{\dot{s}(1-\kappa_rd)}{v}+\theta_r)$
 
 For the actual robot motion, the acceleration observation normally sustain large amount of noise. Given enough time and small $\Delta v$, we can get a good planned path with the assumption that $\ddot{s}=0$. However, $\ddot{d}$ is not just relevant to the acceleration, but also the speed for the curve motion, so it cannot be ignored. The $\ddot{d}$ can be estimated with the equation:
 
