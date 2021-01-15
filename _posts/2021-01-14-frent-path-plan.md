@@ -44,13 +44,19 @@ The motion transformation from x-y coordinate to Frenet Frame is essential, as w
   - $\theta=arccos(\frac{\dot{s}(1-\kappa_rd)}{v}+\theta_r)$
 
 For the actual robot motion, the acceleration observation normally sustain large amount of noise. Given enough time and small $\Delta v$, we can get a good planned path with the assumption that $\ddot{s}=0$. However, $\ddot{d}$ is not just relevant to the acceleration, but also the speed for the curve motion, so it cannot be ignored. The $\ddot{d}$ can be estimated with the equation:
+
 $$\ddot{d}=d''\dot{s}^2+d'\ddot{s}$$ 
+
 where $\ddot{s}$ can be assumed to be zero for the small target v relative to the maximum allowed acceleration, so 
+
 $$\ddot{d}\approx d''\dot{s}^2$$ 
+
 where $d''$ can be calculated from the below equation:
+
 $$d''=-(\kappa_r'd+\kappa_rd')tan(\theta-\theta_r)+\frac{1-\kappa_rd}{cos^2\Delta\theta}(\kappa_x\frac{1-\kappa_rd}{cos\Delta\theta}-\kappa_r)$$
 
 where $d'=(1-\kappa_rd)tan\Delta\theta$. \kappa_r'd can be calculated with the following equation:
+
 $$\kappa_r'=\frac{(x'^2+y'^2)(x'y'''+y'x''')-3(x'y'-y'x'')(x'x''+y'y'')}{(x'^2+y'^2)^3}$$
 
 where x' and y' are the parameterization of curve to the arc segment s.
@@ -59,13 +65,20 @@ where x' and y' are the parameterization of curve to the arc segment s.
 Quntic path is a local path planner in real time with the objective of minimum jerk (time derivative of acceleration) along the path. The path planner will output the position, velocity and acceleration at each time stamp along the path.
 $$C=\frac{1}{2}\int_0^T L dt$$
 where L is the square of jerk:
+
 $$L=(\frac{d^3x}{dt^3})^2+(\frac{d^3y}{dt^3})^2 $$
+
 Here x(t) and y(t) indicates the position components on x-y coordinate system.
 If x(t) and y(t) are sufficiently differential-able, the local optimal (extremum) points need to meet the following equations:
+
 $$\frac{d^6x}{dt^6}=0$$
+
 $$\frac{d^6y}{dt^6}=0$$
+
 As we assume the path in time domain is continuous and derivative, the following polynomial equations for x(t) and y(t) can be used:
+
 $$x(t)=a_0+a_1t+a_2t^2+a_3t^3+a_4t^4+a_5t^5$$
+
 $$y(t)=a_0+a_1t+a_2t^2+a_3t^3+a_4t^4+a_5t^5$$
 
 The parameters $a_i$ can be obtained given boundary conditions. 
