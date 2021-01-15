@@ -16,7 +16,7 @@ main:
     url: /teaching/    
         
   - title: "Blog Posts"
-    url: /posts/
+    url: /blog_posts/
     
   - title: "CV"
     url: /cv/

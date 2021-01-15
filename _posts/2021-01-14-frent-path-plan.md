@@ -2,7 +2,7 @@
 title: 'Path Planning in Frenet Frame '
 date: 2021-01-14
 permalink: /posts/2021/01/FrenetFrame/
-excerpt: 'Concepts and equations used in the Frenet Frame path planner'
+excerpt: '**Concepts and equations** used in the Frenet Frame path planner <br /><img src="/images/frenet-frame.png" width='500pt'>'
 tags:
   - Frenet–Serret frame;
   - Polynomial path planning;
@@ -15,12 +15,12 @@ Polynomial path planning in Frenet Frame
 
 - **World Frame $\{W\}$**: Inertial frame in 2D space. The most common coordinate is the rectangle coordinate (x-y). <br />
 - **Frenet Frame $\{F\}$**: Frenet frame is a coordinate built on the curve. In 2D space, it is composed of four components: a point ($\vec{r}$) on the curve, tangential vector ($\vec{t_r}$), distance to the reference point ($d$),normal vector ($\vec{n_r}$).
-<img src="/images/frenet-frame.png">
+<img src="/images/frenet-frame.png" width='500pt'>
 
 ## Curve parameterization
 In the rectangle coordinate, the curve can be expressed with $f(x,y)=0$. If we introduce an intermediate parameter $t$, the curve can be expressed with $x(t)$ and $y(t)$. Given the Frenet frame, we can choose arc length $s$ of the curve as the intermediate parameter. Givne that, any point in the 2D space can also be paramterized in the Frenet Frame after deciding the parameter $s$: $\vec{r(s)}$, d(s),$\vec{t_r(s)}$,$\vec{n_r(s)}$<br />
 
-<img src="/images/curve_parameterization.jpg">
+<img src="/images/curve_parameterization.jpg" width='500pt'>
 
 ## Motion expression in Frenet Frame
 When there is an object moving in a 2D space, we can express the motion in the inertial frame with rectangle coordinates (x-y). The motion can be separated into two 1-D motions (along x and y) and combine them to the actual motion. Take velocity as an example, $\vec{v_x}+\vec{v_y}=\vec{v}$. Similarly, we can also express the motion in the Frenet Frame which is also inertial. As a result, the components to express the reference segment position on the curve is a function of time: $s(t)$ and the other components ($d$,$\vec{t_r}$,$\vec{n_r}$) are also the function of time.
