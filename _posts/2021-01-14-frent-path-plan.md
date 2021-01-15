@@ -2,7 +2,7 @@
 title: 'Path Planning in Frenet Frame '
 date: 2021-01-14
 permalink: /posts/2021/01/FrenetFrame/
-excerpt: '**Concepts and equations** used in the Frenet Frame path planner <br /><img src="/images/frenet-frame.png" width='500pt'>'
+excerpt: '**Concepts and equations** used in the Frenet Frame path planner'
 tags:
   - Frenet–Serret frame;
   - Polynomial path planning;
