@@ -48,9 +48,11 @@ $$\ddot{d}=d''\dot{s}^2+d'\ddot{s}$$
 where $\ddot{s}$ can be assumed to be zero for the small target v relative to the maximum allowed acceleration, so 
 $$\ddot{d}\approx d''\dot{s}^2$$ 
 where $d''$ can be calculated from the below equation:
-$$d''=-\[\kappa_r'd+\kappa_rd'\]tan(\theta-\theta_r)+\frac{1-\kappa_rd}{cos^2\Delta\theta}\[\kappa_x\frac{1-\kappa_rd}{cos\Delta\theta}-\kappa_r\]$$
-$d'=\[1-\kappa_rd\]tan\Delta\theta$. \kappa_r'd can be calculated with the following equation:
+$$d''=-(\kappa_r'd+\kappa_rd')tan(\theta-\theta_r)+\frac{1-\kappa_rd}{cos^2\Delta\theta}(\kappa_x\frac{1-\kappa_rd}{cos\Delta\theta}-\kappa_r)$$
+
+where $d'=(1-\kappa_rd)tan\Delta\theta$. \kappa_r'd can be calculated with the following equation:
 $$\kappa_r'=\frac{(x'^2+y'^2)(x'y'''+y'x''')-3(x'y'-y'x'')(x'x''+y'y'')}{(x'^2+y'^2)^3}$$
+
 where x' and y' are the parameterization of curve to the arc segment s.
 
 ## Polynomial motion planning
