@@ -1,10 +1,11 @@
 ---
-title: "EME154 Mechtronics with Arduino System (Lab sessions)"
+title: "EME154 Mechtronics with Arduino System"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-4
 venue: "University of California, Davis"
 date: 2020-03-20
+excerpt: 'Leading the lab sessions and re-write the lab materials.'
 location: "Davis, CA"
 ---
 

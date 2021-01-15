@@ -1,9 +1,10 @@
 ---
-title: "ENG102 Dynamics (Discussion Session)"
+title: "ENG102 Dynamics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-fall-teaching-3
 venue: "University of California, Davis"
+excerpt: 'Leading the discussion sessions for the undergraduate students.'
 date: 2019-09-15
 location: "Davis, CA"
 ---

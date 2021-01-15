@@ -1,9 +1,10 @@
 ---
-title: "ENG 154 Mechtronics (Lab session)"
+title: "ENG 154 Mechtronics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-fall-teaching-2
 venue: "University of California, Davis"
+excerpt: 'Leading the lab sessions for the undergraduate students.'
 date: 2018-09-21
 location: "Davis, CA"
 ---

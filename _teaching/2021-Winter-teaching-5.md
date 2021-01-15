@@ -1,9 +1,10 @@
 ---
-title: "EME171 Analysis, Simulation, and Design of Mechatronic Systems (Lab sessions)"
+title: "EME171 Analysis, Simulation, and Design of Mechatronic Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-Winter-teaching-5
 venue: "University of California, Davis"
+excerpt: 'Leading the lab sessions for the undergraduate students.'
 date: 2021-01-14
 location: "Davis, CA"
 ---
@@ -15,7 +16,7 @@ location: "Davis, CA"
 4. Communicate effectively the results of modeling studies orally and in writing.
 
 ## System simulation (labs)
-General steps for building the simulation of system:
+### General steps for building the simulation of system:
 * Translate ordinary differential equations (ODEs) into a Matlab function;
 * Evaluates the equations at any given point in time;
 * Numerically integrate ordinary differential equations with Matlab's ode45;

@@ -1,9 +1,10 @@
 ---
-title: "EME 172 Automatic Control of Engineering Systems (TA)"
+title: "EME 172 Automatic Control of Engineering Systems"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-fall-teaching-1
 venue: "University of California, Davis"
+excerpt: 'Leading the discussions for the undergraduate students.'
 date: 2017-09-21
 location: "Davis, CA"
 ---
