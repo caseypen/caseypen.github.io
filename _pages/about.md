@@ -13,7 +13,7 @@ This homepage is academic road map of Chen Peng since 2017 in the [Bio-automatio
 * Optimized **online scheduling** of robotic vehicles;
 * Implementation of **robotic field operation system** in the agricultural activities;
 
-Research Project Topics:
+Ph.D. Research Project Topics:
 ======
 1. Design and Control of Fragile cRop hArvest-aIding mobiLe robots **(FRAIL-Bots)**;
 2. Data-driven simulator of manual & robot-aiding strawberry harvesting;
@@ -21,6 +21,12 @@ Research Project Topics:
 4. Implementation of harves-aiding system in the commercial strawberry field;
 5. Design of crop-transport robots in the vineyard;
 
+Post-Doctoral Research Project Topics:
+=========
+1. Vision based orchard SLAM and navigation;
+2. Post-harvesting yield estimation in the almond field;
+3. Instrumented cart system for data collection in the strawberry field;
+
 Biography
 ======
-Chen Peng received his bachelor's degree in Mechanical and Electric Engineering from the Hohai University in Jiangsu, China (2012).  He received his M.S in Naval and Ocean Engineering from the Zhejiang University in Hangzhou, China (2015). He is pursuing Ph.D degree in Agricultural Robotics and Automation (Mechanical and Aerospace Engineering, University of California, Davis). His advisor of Ph. D program is [Dr. Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 
+Chen Peng received his bachelor's degree in Mechanical and Electric Engineering from the Hohai University in Jiangsu, China (2012).  He received his M.S in Naval and Ocean Engineering from the Zhejiang University in Hangzhou, China (2015). He recieved Ph.D degree in Mechanical and Aerospace Engineering, University of California, Davis (2021). He has started his post-doctoral researching at UC-Davis since March, 2021. His advisor of Ph. D program is [Dr. Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 

@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mechanical and Automation Engineering, Hohai University, 2008
 * M.S. in Naval and Ocean Engineering, Zhejiang University, 2015
-* Ph.D in Mechanical and Aerospace Engineering, University of California, Davis, 2020 (expected)
+* Ph.D in Mechanical and Aerospace Engineering, University of California, Davis, 2021
 
 Work experience
 ======
