@@ -9,9 +9,10 @@ redirect_from:
 ---
 
 This homepage is academic road map of Chen Peng since 2017 in the [Bio-automation lab](https://faculty.engineering.ucdavis.edu/vougioukas/research/lab-members/) from UC, Davis. His Ph.D. project is design, development and implementation of Co-robotic harvest-aiding system in the field of fragile fruit, like strawberries and table grapes. His research interests includes:
-* **Modeling** of human and robot activities in the field operations;
-* Optimized **online scheduling** of robotic vehicles;
-* Implementation of **robotic field operation system** in the agricultural activities;
+* Management of Vehicle logistics in the agricultural field; 
+* Precision agricultural solutions (IoT);
+* Autonomous vehicle driving in the agricultural field;
+* Human robot interaction in the agricultural domain;
 
 Ph.D. Research Project Topics:
 ======
