@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chen Peng / Academic pages"
+title                    : "Chen Peng (彭晨)"
 title_separator          : "-"
 name                     : &name "Chen Peng"
 description              : &description "Ph.D. Candidate @ UC, Davis"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Peng, Chen"
   avatar           : "profile.png"
-  bio              : "Roadmap of personal academic experience"
+  bio              : "Homepage of Chen Peng"
   location         : "Davis, CA"
   employer         : "UC, Davis"
   pubmed           : 

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recieved my Ph.D. degree from [Mechanical and Aerospace](https://mae.ucdavis.edu/) at University of California, Davis in 2021, under the mentoring of Prof. [Stavros G. Voukiougas](https://faculty.engineering.ucdavis.edu/vougioukas/). Before that, I received M.S degree in Naval and Ocean Engineering from the Zhejiang University in Hangzhou, China (2015). I am currently a post-doctoral researcher at the [Bio-automation lab](https://faculty.engineering.ucdavis.edu/vougioukas/research/lab-members/) from UC-Davis. My research interests includes:
+I recieved my Ph.D. degree from [Mechanical and Aerospace](https://mae.ucdavis.edu/) at University of California, Davis in 2021, under the mentoring of Prof. [Stavros G. Voukiougas](https://faculty.engineering.ucdavis.edu/vougioukas/). Before that, I received M.S degree in Naval and Ocean Engineering from Zhejiang University in Hangzhou, China (2015). I am currently a post-doctoral researcher at the [Bio-automation lab](https://faculty.engineering.ucdavis.edu/vougioukas/research/lab-members/) from UC-Davis. My research interests includes:
 
 * Management of Vehicle logistics in the agricultural field; 
 * Precision agricultural solutions (IoT);
@@ -25,7 +25,7 @@ Finished projects:
 4. Integration and implementation of complex robotic system in the commercial strawberry field;
 5. Design and implementation of crop-transport robots in the vineyard;
 
-Ongoing Research Project Topics:
+Ongoing Research Projects:
 =========
 1. Vision based orchard SLAM and navigation;
 2. Post-harvesting yield estimation in the almond field;
