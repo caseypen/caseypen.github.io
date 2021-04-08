@@ -31,3 +31,5 @@ Ongoing Research Projects:
 2. Post-harvesting yield estimation in the almond field;
 3. Instrumented cart system for data collection in the strawberry field;
 4. Human robot interaction in the agricultural application;
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1c679e&w=a&t=n&d=rvMTQFEORcQs4AVWtIVoK6ghclOws8CSKxqlBN5Map8&co=ffffff'></script>
