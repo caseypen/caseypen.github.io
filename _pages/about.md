@@ -32,4 +32,18 @@ Ongoing Research Projects:
 3. Instrumented cart system for data collection in the strawberry field;
 4. Human robot interaction in the agricultural application;
 
+## <i class="fa fa-fw fa-rss "></i> Recent News ##
+<ul style="width: auto; height: 300px; overflow: auto">
+  
+  <li> <b>[Apr, 2021]</b>. Two abstracts were accpeted by ASABE 2021 and I will present our work of mobile robots navigation on June. </li>
+
+  <li> <b>[Apr, 2021]</b>. I started my Post-Doc research in Bio-automation lab from UC-Davis.</li>
+
+  <li> <b>[Mar, 2021]</b>. I obtained my PhD degree of Mechanical and Aerospace Engineering at UC-Davis!!.</li>  
+
+  <li> <b>[Nov, 2020]</b>. We finished a successful system experiment in the strawberry field of Lompoc, CA.</li>  
+
+</ul>
+Visitors' Map:
+==============
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1c679e&w=a&t=n&d=rvMTQFEORcQs4AVWtIVoK6ghclOws8CSKxqlBN5Map8&co=ffffff'></script>
