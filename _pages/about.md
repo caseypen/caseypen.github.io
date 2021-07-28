@@ -35,6 +35,10 @@ Ongoing Research Projects:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
+  <li> <b>[July, 2021]</b>. Two provisional patents are submitted for crop-transport co-robots during manual harvesting. </li>
+
+  <li> <b>[July, 2021]</b>. Made presentations on AIM of ASABE 2021  </li>
+
   <li> <b>[Apr, 2021]</b>. Two abstracts were accpeted by ASABE 2021 and I will present our work of mobile robots navigation on June. </li>
 
   <li> <b>[Apr, 2021]</b>. I started my Post-Doc research in Bio-automation lab from UC-Davis.</li>

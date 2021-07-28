@@ -1,5 +1,5 @@
 ---
-title: "(TO BE SUBMITTED SOON)A harvest-aiding system with crop-transport co-robots: Design, development, integration, and field evaluation"
+title: "A harvest-aiding system with crop-transport co-robots: Design, development, integration, and field evaluation"
 collection: publications
 permalink: /publication/2021-04-system-paper
 excerpt: 'This work presents the implementation and integration of the co-robotic harvest-aid system and its deployment during commercial strawberry harvesting. The evaluation experiments demonstrated that the proof-of-concept system was fully functional. The co-robots improved the mean harvesting efficiency by around 10% and reduced the mean non-productive time by 60%, when the robot-to-picker ratio was 1:3.'

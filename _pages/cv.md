@@ -69,3 +69,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Patent (provisional)
+=====================
+1. A Crop-Transport robotic aided harvesting vehicle system method and devices.
+2. Crop-transport robots and instrumented picking carts acting as harvest-aids during manual harvesting.
