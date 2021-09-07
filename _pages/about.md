@@ -50,4 +50,5 @@ Ongoing Research Projects:
 </ul>
 
 <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=G2ynBHz3QRxEPD-jOq1Rw5aGQBcFgOJaIdxS6xhyUhk&cl=ffffff&w=a"></script> -->
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=G2ynBHz3QRxEPD-jOq1Rw5aGQBcFgOJaIdxS6xhyUhk"></script>
+<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=G2ynBHz3QRxEPD-jOq1Rw5aGQBcFgOJaIdxS6xhyUhk"></script> -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=G2ynBHz3QRxEPD-jOq1Rw5aGQBcFgOJaIdxS6xhyUhk'></script>
