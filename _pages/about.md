@@ -14,6 +14,7 @@ I recieved my Ph.D. degree from [Mechanical and Aerospace Engineering](https://m
 * Precision agricultural solutions (IoT);
 * Autonomous vehicle driving in the agricultural field;
 * Human robot interaction in the agricultural domain;
+* Equality and Equity of robot services for human workers
 
 **I am very personally open to research discussion and collobaration, please feel free to get in touch**
 
@@ -35,6 +36,8 @@ Ongoing Research Projects:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
+  <li> <b>[September, 2021]</b>. Presented in the BAE seminar for the topic "Co-Robotic Systems for Specialty Crop Harvesting Operations"  </li>
+
   <li> <b>[July, 2021]</b>. Two provisional patents are submitted for crop-transport co-robots during manual harvesting. </li>
 
   <li> <b>[July, 2021]</b>. Made presentations on AIM of ASABE 2021  </li>
