@@ -36,6 +36,8 @@ Ongoing Research Projects:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
+  <li> <b>[November, 2021]</b>. Presented in the AIFS/PhenoRob Early Career Researchers Symposium  </li>
+
   <li> <b>[September, 2021]</b>. Presented in the BAE seminar for the topic "Co-Robotic Systems for Specialty Crop Harvesting Operations"  </li>
 
   <li> <b>[July, 2021]</b>. Two provisional patents are submitted for crop-transport co-robots during manual harvesting. </li>
