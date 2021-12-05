@@ -36,7 +36,7 @@ Ongoing Research Projects:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[November, 2021]</b>. Harvesting bin for monitoring almond yield was reported by ["West Coast Nut"](https://www.wcngg.com/2021/11/04/new-off-ground-harvest-research-incorporates-precision-yield-monitoring-for-improved-orchard-management/)  </li>
+  <li> <b>[November, 2021]</b>. Harvesting bin for monitoring almond yield was reported by [West Coast Nut](https://www.wcngg.com/2021/11/04/new-off-ground-harvest-research-incorporates-precision-yield-monitoring-for-improved-orchard-management/)  </li>
 
   <li> <b>[November, 2021]</b>. Presented in the AIFS/PhenoRob Early Career Researchers Symposium  </li>
 
@@ -56,6 +56,4 @@ Ongoing Research Projects:
 
 </ul>
 
-<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=G2ynBHz3QRxEPD-jOq1Rw5aGQBcFgOJaIdxS6xhyUhk&cl=ffffff&w=a"></script> -->
-<!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=G2ynBHz3QRxEPD-jOq1Rw5aGQBcFgOJaIdxS6xhyUhk"></script> -->
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=G2ynBHz3QRxEPD-jOq1Rw5aGQBcFgOJaIdxS6xhyUhk'></script>
