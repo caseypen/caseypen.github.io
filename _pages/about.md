@@ -36,6 +36,10 @@ Ongoing Research Projects:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
+  <li> <b>[April, 2022]</b>. Invited speaker for the topic of "The challenge and opportunity of robotic application in specialty crops." for BAE department in Zhejiang University  </li>
+
+  <li> <b>[April, 2022]</b>. Paper pal for [DIGICROP 2022](https://digicrop.de/program-for-the-live-event/)  </li>
+
   <li> <b>[November, 2021]</b>. Harvesting bin for monitoring almond yield was reported by [West Coast Nut](https://www.wcngg.com/2021/11/04/new-off-ground-harvest-research-incorporates-precision-yield-monitoring-for-improved-orchard-management/)  </li>
 
   <li> <b>[November, 2021]</b>. Presented in the AIFS/PhenoRob Early Career Researchers Symposium  </li>
