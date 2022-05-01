@@ -1,0 +1,13 @@
+---
+title: "Depth camera based row end detection and headland manuvering in orchard navigation without GNSS"
+collection: publications
+permalink: /publication/2022-MED-paper
+excerpt: 'A robust navigation system is a prerequisite for a mobile robotic platform to carry out precision agriculture tasks in a modern orchard. In contrast to open fields, navigation based solely on the Global Navigation Satellite System (GNSS) is not stable in many orchards, where tree canopies may block the GNSS signal or introduce multipath. Many works have been done to localize the robot while traversing the inside a row, but navigating the robot to the next row on headland still relies on a reference map or artificial landmarks. In this work, we developed a row end detection method by exploiting drastic changes in the statistical distribution of points sensed by a depth camera compared to the points inside the row. Also, a robust way of row entry method is implemented by building a local environment map and reactive path tracker. The whole navigation system is tested and evaluated on a mobile robot in a vineyard. The experiment results show the robot can detect the tree row-end accurately and maneuver a U-turn to the next row safely.'
+date: 2022-04-30
+venue: '2022 30th Mediterranean Conference on Control and Automation (MED)'
+paperurl: 
+citation: 
+---
+A robust navigation system is a prerequisite for a mobile robotic platform to carry out precision agriculture tasks in a modern orchard. In contrast to open fields, navigation based solely on the Global Navigation Satellite System (GNSS) is not stable in many orchards, where tree canopies may block the GNSS signal or introduce multipath. Many works have been done to localize the robot while traversing the inside a row, but navigating the robot to the next row on headland still relies on a reference map or artificial landmarks. In this work, we developed a row end detection method by exploiting drastic changes in the statistical distribution of points sensed by a depth camera compared to the points inside the row. Also, a robust way of row entry method is implemented by building a local environment map and reactive path tracker. The whole navigation system is tested and evaluated on a mobile robot in a vineyard. The experiment results show the robot can detect the tree row-end accurately and maneuver a U-turn to the next row safely.
+
+[Download paper here](https://www.researchgate.net/profile/Chen-Peng-28/publication/360117302_Depth_camera_based_row-end_detection_and_headland_maneuvering_in_orchard_navigation_without_GNSS/links/6262e09cee24725b3ebdf26a/Depth-camera-based-row-end-detection-and-headland-maneuvering-in-orchard-navigation-without-GNSS.pdf)
