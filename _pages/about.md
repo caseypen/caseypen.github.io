@@ -37,7 +37,7 @@ Ongoing Research Projects:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[January, 2023]</b>. News report of our co-robotic system on the UC,Davis website [Press release](https://engineering.ucdavis.edu/news/strawberry-harvesters-get-some-help-new-robot-coworkers.)  </li>
+  <li> <b>[January, 2023]</b>. [Press release](https://engineering.ucdavis.edu/news/strawberry-harvesters-get-some-help-new-robot-coworkers) of our co-robotic system on the UC, Davis website </li>
 
   <li> <b>[April, 2022]</b>. Invited speaker for the topic of "The challenge and opportunity of robotic application in specialty crops." for BAE department in Zhejiang University  </li>
 
