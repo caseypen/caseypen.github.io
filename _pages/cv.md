@@ -36,10 +36,18 @@ Work experience
   * University of California, Davis
   * Duties included: Navigation of crop-transport robots in the strawberry field
   * Supervisor: [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 
+
+* Summer 2021: Post-doctoral researcher
+  * University of California, Davis
+  * Duties included: IoT system development for data collection in the harvesting scenario
+  * Supervisor: [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 
   
 Skills
 ======
 * Proficient in [ROS package development](http://wiki.ros.org/) (C++/Python)
+* Optimization based path planning and tracking for mobile robot in the orchard;
+  * Application of OBCA for headland manuvering of E-tractor;
+  * Kinodynamic model based optimal control of E-tractor;
 * Experienced in mathematical modeling of vehicle logistics problems; 
   * Online heuristic discrete optimization;
   * Gurobi solver;

@@ -32,13 +32,18 @@ Ongoing Research Projects:
 2. Post-harvesting yield estimation in the almond field;
 3. Instrumented cart system for data collection in the strawberry field;
 4. Human robot interaction in the agricultural application;
+5. Robust control of mobile robot with RL
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
+  <li> <b>[January, 2023]</b>. News report of our co-robotic system on the UC,Davis website [Press release](https://engineering.ucdavis.edu/news/strawberry-harvesters-get-some-help-new-robot-coworkers.)  </li>
+
   <li> <b>[April, 2022]</b>. Invited speaker for the topic of "The challenge and opportunity of robotic application in specialty crops." for BAE department in Zhejiang University  </li>
 
   <li> <b>[April, 2022]</b>. Paper pal for [DIGICROP 2022](https://digicrop.de/program-for-the-live-event/)  </li>
+
+  <li> <b>[Feberuary, 2022]</b>. Joined the start-up company MUROBOTIX and do the development of PNC for E-tractor </li>
 
   <li> <b>[November, 2021]</b>. Harvesting bin for monitoring almond yield was reported by [West Coast Nut](https://www.wcngg.com/2021/11/04/new-off-ground-harvest-research-incorporates-precision-yield-monitoring-for-improved-orchard-management/)  </li>
 
