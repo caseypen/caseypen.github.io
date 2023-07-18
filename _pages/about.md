@@ -38,7 +38,7 @@ Ongoing Research Projects:
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[July, 2023]</b>. I joined HIC-ZJU!!!! </li>
+  <li> <b>[July, 2023]</b>. I joined HIC-ZJU as a researcher (PI)!!!! </li>
 
   <li> <b>[January, 2023]</b>. [Press release](https://engineering.ucdavis.edu/news/strawberry-harvesters-get-some-help-new-robot-coworkers) of our co-robotic system on the UC, Davis website </li>
 
