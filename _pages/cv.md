@@ -37,10 +37,20 @@ Work experience
   * Duties included: Navigation of crop-transport robots in the strawberry field
   * Supervisor: [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 
 
-* Summer 2021: Post-doctoral researcher
+* March 2021: Post-doctoral Scholar
   * University of California, Davis
   * Duties included: IoT system development for data collection in the harvesting scenario
   * Supervisor: [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 
+
+* Feb 2022: Research Scientist
+  * MU-robotix
+  * Duties included: Robotic system design, PNC of E-tractor
+
+* July 2022: Researcher (PI)
+  * Hangzhou Global Innovation and Technology Center
+  * Duties included: Picking automation, Automatic system design in Greenhouse
+
+
   
 Skills
 ======
