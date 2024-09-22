@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I recieved my Ph.D. degree from [Mechanical and Aerospace Engineering](https://mae.ucdavis.edu/) at University of California, Davis in 2021, under the mentoring of Prof. [Stavros G. Voukiougas](https://faculty.engineering.ucdavis.edu/vougioukas/). Before that, I received M.S degree in Naval and Ocean Engineering from Zhejiang University in Hangzhou, China (2015). I worked as a post-doctoral researcher at the [Bio-automation lab](https://faculty.engineering.ucdavis.edu/vougioukas/research/lab-members/) from the department of [Biological and Agricultural Engineering](https://bae.ucdavis.edu/) from UC-Davis before Feb 2022. After that, I worked in a start-up company of intelligent E-tractor as a research scientist. For now, I worked as a PI in Hangzhou Global Innovation and Technology Center of Zhejiang University. My research interests includes:
+I recieved my Ph.D. degree from [Mechanical and Aerospace Engineering](https://mae.ucdavis.edu/) at University of California, Davis in 2021, under the mentoring of Prof. [Stavros G. Voukiougas](https://faculty.engineering.ucdavis.edu/vougioukas/). I worked as a post-doctoral researcher at the [Bio-automation lab](https://faculty.engineering.ucdavis.edu/vougioukas/research/lab-members/) from the department of [Biological and Agricultural Engineering](https://bae.ucdavis.edu/) from UC-Davis before Feb 2022. After that, I worked in a start-up company of intelligent E-tractor as a research scientist. For now, I worked as a PI in Hangzhou Global Innovation and Technology Center of Zhejiang University. My research interests includes:
 
-* Strawberry picking robots in Greenhouse.
-* Management of Vehicle logistics in the agricultural field; 
-* Precision agricultural solutions (IoT);
-* Autonomous vehicle driving in the agricultural field;
-* Human robot interaction in the agricultural domain;
-* Equality and Equity of robot services for human workers
+* Motion Planning 
+* Multi-Robot Planning & Coordination
+* Strawberry picking and transportation robotic system;
+* Autonomous vehicle driving in the cluttered agricultural field;
+* Robust control of underwater robots;
 
 Finished projects:
 ======
@@ -24,21 +23,24 @@ Finished projects:
 3. **Online scheduling** algorithm processing stochastic and dynamic transport requests;
 4. Integration and implementation of complex robotic system in the commercial strawberry field;
 5. Design and implementation of crop-transport robots in the vineyard;
+6. Post-harvesting yield estimation in the almond field;
+7. Instrumented cart system for data collection in the strawberry field;
 
 Ongoing Research Projects:
 =========
 1. Vision based orchard SLAM and navigation;
-2. Post-harvesting yield estimation in the almond field;
-3. Instrumented cart system for data collection in the strawberry field;
 4. Human robot interaction in the agricultural application;
-5. Robust control of mobile robot with RL;
-6. Trajectory planning of E-tractor in confined headland space;
-7. Strawberry Picking Robot;
+6. Trajectory planning of E-tractor in cluttered headland space;
+7. Learning-based Strawberry harvesting robot;
+8. Net cage fishing supervision with Underwater Robot;
+
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[July, 2023]</b>. I joined HIC-ZJU as a researcher (PI)!!!! </li>
+  <li> <b>[April, 2024]</b>. A journal paper published on JFR was accepted. </li>
+
+  <li> <b>[July, 2023]</b>. I joined HIC-ZJU as a [researcher (PI)](https://hic.zju.edu.cn/2023/0904/c72951a2797324/page.htm). </li>
 
   <li> <b>[January, 2023]</b>. [Press release](https://engineering.ucdavis.edu/news/strawberry-harvesters-get-some-help-new-robot-coworkers) of our co-robotic system on the UC, Davis website </li>
 
