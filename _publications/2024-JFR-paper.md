@@ -2,7 +2,8 @@
 title: "Optimization-based motion planning for autonomous agricultural vehicles turning in constrained headlands"
 collection: publications
 permalink: /publication/2024-JFR-paper
-excerpt: 'GPS-based navigation in orchards can be unstable because trees may block the GPS signal or introduce multipath errors. Most research on robot navigation without GPS has focused on guidance inside orchard rows; end-of-row detection has not received enough attention.'
+excerpt: 'Headland maneuvering is a crucial part of the field operations performed by autonomous agricultural vehicles (AAVs). While motion planning for headland turning in open fields has been extensively studied and integrated into commercial autoguidance systems, the existing methods primarily address scenarios with ample headland space and thus may not work in more constrained headland geometries.'
+venue: 'Journal of Field Robotics (JFR)'
 date: 2024-06-10
 paperurl: https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22374
 citation: 

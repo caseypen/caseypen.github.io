@@ -2,6 +2,8 @@
 main:
   # - title: "Projects"
   #   url: /projects/
+  - title: "Team"
+    url: /people/
 
   - title: "Publications"
     url: /publications/

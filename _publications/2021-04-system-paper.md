@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-04-system-paper
 excerpt: 'This work presents the implementation and integration of the co-robotic harvest-aid system and its deployment during commercial strawberry harvesting. The evaluation experiments demonstrated that the proof-of-concept system was fully functional. The co-robots improved the mean harvesting efficiency by around 10% and reduced the mean non-productive time by 60%, when the robot-to-picker ratio was 1:3.'
 date: 2021-04-04
-venue: 'Jounal of Field Robotics'
+venue: 'Jounal of Field Robotics (JFR)'
 paperurl: https://onlinelibrary.wiley.com/doi/abs/10.1002/rob.22106
 citation: 
 ---

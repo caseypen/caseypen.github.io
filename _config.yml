@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chen Peng (彭晨)"
 title_separator          : "-"
 name                     : &name "Chen Peng"
-description              : &description "Ph.D. Candidate @ UC, Davis"
+description              : &description "PI @ ZJU-IBE"
 url                      : https://caseypen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caseypen/caseypen.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Peng, Chen"
   avatar           : "myPhoto.jpg"
-  bio              : "Homepage of Chen Peng"
-  location         : "Davis, CA"
-  employer         : "UC, Davis"
+  bio              : "Homepage of Chen Peng from ZJU-IBE"
+  location         : "Hangzhou, Zhejiang"
+  employer         : "Zhejiang University"
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=ZnLKC3MAAAAJ&hl=en
-  email            : penchen@ucdavis.edu
+  email            : chen.peng@zju.edu.cn
   researchgate     : 
   uri              :
   bitbucket        : 
@@ -178,12 +178,15 @@ collections:
   teaching: 
     output: false
     permalink: /:collection/:path/
+  people:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/:title/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -235,7 +238,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""

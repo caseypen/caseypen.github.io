@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2023-Machines-paper
 excerpt: 'GPS-based navigation in orchards can be unstable because trees may block the GPS signal or introduce multipath errors. Most research on robot navigation without GPS has focused on guidance inside orchard rows; end-of-row detection has not received enough attention.'
 date: 2023-01-09
+venue: Machines
 paperurl: https://www.mdpi.com/2075-1702/11/1/84
 citation: 
 ---

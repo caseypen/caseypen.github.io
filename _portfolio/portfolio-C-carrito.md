@@ -1,6 +1,6 @@
 ---
 title: "An instrumented carrito for yield mapping of strawberry field"
-excerpt: "<img src='/images/carrito_in_field.jpg' width='300pt'>"
+excerpt: "<img src='/images/carrito_in_field.jpg' width='200pt'>"
 collection: portfolio
 date: 2019-12-21
 location: "Davis, CA"

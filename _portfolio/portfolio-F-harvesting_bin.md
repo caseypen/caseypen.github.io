@@ -1,6 +1,6 @@
 ---
 title: "Harvesting bin in almond field"
-excerpt: "<img src='/images/harvesting_bin.gif' width='300pt'>"
+excerpt: "<img src='/images/harvesting_bin.gif' width='200pt'>"
 collection: portfolio
 date: 2021-08-08
 location: "Woodland, CA"

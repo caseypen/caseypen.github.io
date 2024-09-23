@@ -1,14 +1,16 @@
 ---
 layout: archive
-title: "Field work"
+title: "Field Work"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<!-- Assign sorted and reversed portfolio items to a variable -->
+{% assign sorted_portfolio = site.portfolio | sort: 'date' | reverse %}
 
-{% for post in site.portfolio %}
+<!-- Loop through the sorted portfolio items -->
+{% for post in sorted_portfolio %}
   {% include archive-single.html %}
 {% endfor %}
-
