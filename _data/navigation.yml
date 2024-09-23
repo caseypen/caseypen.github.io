@@ -2,8 +2,6 @@
 main:
   # - title: "Projects"
   #   url: /projects/
-  - title: "Team"
-    url: /people/
 
   - title: "Publications"
     url: /publications/
@@ -11,9 +9,12 @@ main:
   # - title: "Team Members"
   #   url: /team/
 
-  - title: "Field work"
+  - title: "Field Work"
     url: /portfolio/
-    
+
+  - title: "Team"
+    url: /people/  
+  
   - title: "Talks"
     url: /talks/    
 
