@@ -24,16 +24,17 @@ My **MISSION** is to  integrate robotic technologies into agricultural operation
 * **CV** [here](https://caseypen.github.io/cv/).
 
 ## Research Opportunities
-I am always looking to collaborate with passionate individuals. Here are the opportunities available:
+I am always looking to collaborate with passionate individuals who share the same goal with me. Here are the opportunities available:
 * Postdoctoral Positions 
-  - **Who**: Ph.D. graduates interested in continuing research in robotics and agriculture.
-  - **How to Apply**: Send your CV to [email](mailto:chen.peng@zju.edu.cn)
+  - *Ph.D. graduates* interested in continuing research in robotics and agriculture.
+  <!-- - **How to Apply**: Send your CV to [email](mailto:chen.peng@zju.edu.cn) -->
 * Graduate Student Positions 
-  - **Who**: Prospective graduate students at Zhejiang University interested in my research areas.
-  - **How to Apply**: Send your CV to [email](mailto:chen.peng@zju.edu.cn)
+  - *Prospective graduate students* at Zhejiang University interested in my research areas.
+  <!-- - **How to Apply**: Send your CV to [email](mailto:chen.peng@zju.edu.cn) -->
 * Undergraduate Internships (3-month at least)
-  - **Who**: Third-year or fourth-year undergraduate students seeking a payable internship at ZJU-HIC (students from Hangzhou are preferred).
-  - **How to Apply**: Send your CV to [email](mailto:chen.peng@zju.edu.cn)
+  - *Third-year or fourth-year undergraduate students* seeking a payable internship at ZJU-HIC (*students from Hangzhou* are preferred).
+
+* **How to Apply**: Send your CV and research interests to [email](mailto:chen.peng@zju.edu.cn)
 
 
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
