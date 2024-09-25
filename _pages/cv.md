@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechanical and Automation Engineering, Hohai University, 2008
+* B.S. in Mechanical and Automation Engineering, Hohai University, 2012
 * M.S. in Naval and Ocean Engineering, Zhejiang University, 2015
 * Ph.D in Mechanical and Aerospace Engineering, University of California, Davis, 2021
 
 Work experience
 ======
-* Spring, Winter 2016: Research Assistant
+* 2017-2019: Research Assistant
   * University of California, Davis
-  * Duties included: Software development of education robots 
-  * Supervisor: [Harry H. Cheng](https://faculty.engineering.ucdavis.edu/cheng/)
-
-* Summer 2017: Research Assistant
-  * University of California, Davis
-  * Duties included: Motion control of agriculture robotics
+  * Duties included: Crop-transport robots system in strawberry harvesting
   * Supervisor: [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/)
 
-* Fall 2018: Research Assistant
+* 2020-2021: Research Assistant
   * University of California, Davis
-  * Duties included: Data Driven Simulation of strawberry harvesting activities
-  * Supervisor: [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 
-
-* Summer 2019: Research Assistant
-  * University of California, Davis
-  * Duties included: Navigation of crop-transport robots in the strawberry field
+  * Duties included: Co-bot for Grapebot harvesting
   * Supervisor: [Stavros G. Vougioukas](https://faculty.engineering.ucdavis.edu/vougioukas/). 
 
 * March 2021: Post-doctoral Scholar
@@ -44,17 +34,16 @@ Work experience
 
 * Feb 2022: Research Scientist
   * MU-robotix
-  * Duties included: Robotic system design, PNC of E-tractor
+  * Duties included: Robotic system design, Planning and Control of E-tractor
 
 * July 2022: Researcher (PI)
-  * Hangzhou Global Innovation and Technology Center
-  * Duties included: Picking automation, Automatic system design in Greenhouse
-
+  * HIC-ZJU & ZJU
+  * Duties included: Research on agricultural robotics
 
   
 Skills
 ======
-* Proficient in [ROS package development](http://wiki.ros.org/) (C++/Python)
+* Proficient in [ROS/ROS2 package development](http://wiki.ros.org/) (C++/Python)
 * Optimization based path planning and tracking for mobile robot in the orchard;
   * Application of OBCA for headland manuvering of E-tractor;
   * Kinodynamic model based optimal control of E-tractor;
@@ -82,13 +71,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 Patent (provisional)
 =====================
-1. A Crop-Transport robotic aided harvesting vehicle system method and devices.
-2. Crop-transport robots and instrumented picking carts acting as harvest-aids during manual harvesting.
+1. Vougioukas, Stavros, Chen Peng, and Dennis L. Sadowski. "Robotic crop transport." U.S. Patent Application No. 17/752,335.

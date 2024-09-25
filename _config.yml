@@ -81,11 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Peng, Chen"
-  avatar           : "profile-photo.jpeg"
+  avatar           : "Eudaimonia.jpeg"
+  # avatar           : "profile-photo.jpeg"
   # avatar           : "myPhoto.jpg"
-  bio              : "Homepage of Chen Peng from ZJU-IBE"
+  bio              : "Homepage of Chen Peng"
   location         : "Hangzhou, Zhejiang"
-  employer         : "Zhejiang University"
+  employer         : "HIC-ZJU and Zhejiang University"
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=ZnLKC3MAAAAJ&hl=en
   email            : chen.peng@zju.edu.cn

@@ -15,17 +15,13 @@ Harvest-aiding system test in the strawberryf field in Lompoc.
 
 Human picker signaled robot back after loading their full trays on it.
 
-<img src='/images/systemLompoc.png' width='300pt'>
+<img src='/images/systemLompoc.png' width='450pt'>
 <br/>
 
 Two **FRAIL-Bots** work together as harvesting-aids in the Lompoc.
 
-<img src='/images/serverLompoc.jpg' width='200pt'>
+<img src='/images/serverLompoc.jpg' height='300pt' width='200pt'>
+<img src='/images/cartsLompoc.png' height='300pt' width='270pt'>
 <br/>
 
-Scheduling server set up in the field working.
-
-<img src='/images/cartsLompoc.png' width='200pt'>
-<br/>
-
-Instrumental carts used in the field work.
+Scheduling server set up in the field working and instrumental carts used in the field work.

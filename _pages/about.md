@@ -32,7 +32,7 @@ I am always looking to collaborate with passionate individuals who share the sam
   - *Prospective graduate students* at Zhejiang University interested in my research areas.
   <!-- - **How to Apply**: Send your CV to [email](mailto:chen.peng@zju.edu.cn) -->
 * Undergraduate Internships (3-month at least)
-  - *Third-year or fourth-year undergraduate students* seeking a payable internship at ZJU-HIC (*students from Hangzhou* are preferred).
+  - *Senior undergraduate students* seeking a payable internship at ZJU-HIC (*students from Hangzhou* are preferred).
 
 * **How to Apply**: Send your CV and research interests to [email](mailto:chen.peng@zju.edu.cn)
 
