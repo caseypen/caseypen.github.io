@@ -9,7 +9,7 @@ author_profile: true
 
 ## Meet the Team
 
-I am working as one of PIs in the building Bio-Robot Lab (BRL). Here is a list of my team members and their profiles.
+I am working as one of PIs in the Bio-Robot Lab (BRL) under construction. Here is a list of my team members and their profiles.
 
 <!-- <img src="https://jiaoyangli.me/images/logo-white-background.png" title="logo" width="800pt" alt="ARCS Lab"/> -->
 
@@ -30,39 +30,37 @@ I am working as one of PIs in the building Bio-Robot Lab (BRL). Here is a list o
     </li>
   </ul>
 </details> -->
+<br clear="all"> 
 
 ### PI Engineer
 - **Wenwu Lu** (Engineer, Fall 2024)
 
-<!-- <img src="../images/gezhikang.jpeg" style="float:left;width:100pt;padding-right:10px;"  alt="Zhikang Ge"/>
+<img src="../images/wenulu.jpeg" style="float:left;width:100pt;padding-right:10px;"  alt="Wenwu Lu"/>
 <p>
-    Zhikang Ge earned a Ph.D. in Engineering from the Shenyang Institute of Automation, Chinese Academy of Sciences, in 2024. His research interests include robust sliding mode control, vehicle dynamics and control, robotics, adaptive control, and nonlinear systems. He is committed to developing advanced robotic systems for the agricultural field, aiming to automate complex tasks and reduce the need for human labor. Now, he focused on <a href="https://caseypen.github.io/portfolio/portfolio-G-rov-track/">the robust control of underwater robots</a>.
-</p> -->
+  Wenwu Lu received his Master’s degree in Mechanical Engineering from Zhejiang Sci-Tech University in 2024. His technical background spans the design, modeling and control of agricultural robotic picking arms, as well as autonomous navigation for agricultural robots. He is enthusiastic in leveraging advanced mechanical design and intelligent control algorithms to enhance agricultural operation efficiency and reduce reliance on manual labor.
+
+  <!-- Currently, Wenwu Lu is dedicated to developing intelligent robotic systems for precision agriculture, with a particular focus on fruit and vegetable harvesting. In the lab, his primary research involves the development of a transportation system for strawberry-picking robots. He is working on multi-robot cooperative control technology to address challenges in transportation and scheduling during harvesting, aiming to optimize operational efficiency. His research not only explores real-time collaboration and communication in multi-robot systems but also includes high-precision motion control and navigation optimization in complex agricultural environments, driving the evolution of agricultural robots from single-task execution to multi-task coordination. -->
+</p> 
+
+<br clear="all"> 
 
 ### PhD Students
-- **Fang Yang** (Co-Advised, PhD, 09 2024)
+- **Fang Yang** (Co-Advised, PhD from ZJU, 09 2024)
 
-<!-- - [Yorai Shaoul](https://personal/webpage/) (RI PhD, Fall 2022) -->
-
-<!-- <img src="address/to/profile.jpg" style="float:left;width:100pt;padding-right:10px;"  alt="Yorai Shaoul"/>
+<img src="../images/yangfang.jpeg" style="float:left;width:100pt;padding-right:10px;"  alt="Fang Yang"/>
 <p>
-    Bio of the person
-</p> -->
-<!-- <details>
-  <summary>Publications</summary>
-  <ul>
-    <li>
-        <a paper link">paper title</a>.         
-        Paper affliation.
-    </li>
-  </ul>
-</details>
-<br clear="all"> -->
+    Currently, she is pursuing her doctoral degree at Zhejiang University, with a focus on the advanced field of underwater robotics. Her academic journey has included research on cooperative control and task allocation for multi-unmanned underwater vehicle (MUUV) systems, as well as advancements in acoustic detection. Her current research is centered on the critical area of underwater vehicle localization, specifically for remotely operated vehicles (ROVs) used in mariculture environments. In the lab, her work is mainly working on the localization of ROV in aquaculture settings.
+</p>
+
+<br clear="all"> 
+
 
 ### Masters Students
 
 - **Yuting Yang** (Co-Advised, Master from ZJU, 09 2023)
 
+<br clear="all"> 
+
 ### Internship students
 
-- **Kangyue Shi** (Master of NSU, 05 2024)
+- **Kangyue Shi** (Master of NTU, 05 2024)
