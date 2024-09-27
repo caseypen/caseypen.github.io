@@ -59,6 +59,11 @@ I am working as one of PIs in the Bio-Robot Lab (BRL) under construction. Here i
 
 - **Yuting Yang** (Co-Advised, Master from ZJU, 09 2023)
 
+<img src="../images/yyt.jpeg" style="float:left;width:100pt;padding-right:10px;"  alt="Yuting Yang"/>
+<p>
+  Yang Yuting is a Master’s student at Zhejiang University, having earned her Bachelor’s degree in Agricultural Engineering from Nanjing Agricultural University in 2023. Her research is focused on developing innovative solutions for anomaly detection in small sample sizes using generative models such as GANs and Stable Diffusion. Yang is particularly passionate about applying these techniques to enhance the perception modules of Autonomous ROVs for net inspection in net cage fishing. 
+</p>
+
 <br clear="all"> 
 
 ### Internship students
