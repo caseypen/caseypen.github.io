@@ -40,6 +40,8 @@ I am always looking to collaborate with passionate individuals who share the sam
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
+  <li> <b>[Oct, 2024]</b>. A new paper was submitted to <b>RA-L</b>. </li>
+
   <li> <b>[May, 2024]</b>. Presented on <b>CIGR 2024</b> in Seaoul Korean. </li>
   
   <li> <b>[April, 2024]</b>. A journal paper published on <b>JFR</b> was accepted. </li>
