@@ -42,7 +42,7 @@ I am always looking to collaborate with passionate individuals who share the sam
   
   <li> <b>[Jan, 2025]</b>. A new paper was accepted by <b>IEEE RA-L</b> about headland turning for <a href="https://caseypen.github.io/portfolio/portfolio-G-pathplanning-aav/"> the agricultural E-tractor </a>. </li>
 
-  <li> <b>[Dec, 2024]</b>. I was chosen as Wiely China Excellent Author Program for <a href="https://caseypen.github.io/publication/2024-JFR-paper/"> the published paper in JFR</a>. </li>
+  <li> <b>[Dec, 2024]</b>. I was chosen as Wiely China Excellent Author Program for <a href="https://caseypen.github.io/publication/2024-JFR-paper"> the published paper in JFR</a>. </li>
 
   <li> <b>[May, 2024]</b>. Presented on <b>CIGR 2024</b> in Seaoul Korean. </li>
   
