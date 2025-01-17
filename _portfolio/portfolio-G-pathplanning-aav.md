@@ -5,8 +5,12 @@ collection: portfolio
 date: 2024-09-10
 location: "Yantai, Shandong"
 ---
-<img src='/images/eelite-enter-row.jpeg' width='600pt'>
-<br/>
+<span style="display:inline-block; margin-right: 1em;">
+  <img src="/images/eelite-enter-row.jpeg" width="400pt">
+</span>
+<span style="display:inline-block;">
+  <img src="/images/Minco_kms_sprayer_headland_7.0.gif" width="300pt">
+</span>
 
 Path planning for E-tractor in the vineyard.
 
@@ -18,5 +22,8 @@ Path planning for E-tractor in the vineyard.
 <br/>
 
 Verified on Grapebot in the campus vineyard of UC-Davis. 
+
+
+
 
 
