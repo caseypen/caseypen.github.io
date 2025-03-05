@@ -40,6 +40,8 @@ I am always looking to collaborate with passionate individuals who share the sam
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
+  <li> <b>[Feb, 2025]</b>. Two IROS-2025 papers (Hangzhou) and one IFAC-2025 (Davis) paper were submitted. The contents will be released soon!  </li>
+
   <li> <b>[Jan, 2025]</b>. A new paper was accepted by <b>IEEE RA-L</b> about headland turning for <a href="https://caseypen.github.io/portfolio/portfolio-G-pathplanning-aav/"> the agricultural E-tractor </a>. </li>
 
   <li> <b>[Dec, 2024]</b>. I was chosen as Wiely China Excellent Author Program for <a href="https://caseypen.github.io/publication/2024-JFR-paper"> the published paper in JFR</a>. </li>

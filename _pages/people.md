@@ -19,7 +19,7 @@ I am working as one of PIs in the Bio-Robot Lab (BRL) under construction. Here i
 
 <img src="../images/gezhikang.jpeg" style="float:left;width:100pt;padding-right:10px;"  alt="Zhikang Ge"/>
 <p>
-    Zhikang Ge earned a Ph.D. in Engineering from the Shenyang Institute of Automation, Chinese Academy of Sciences, in 2024. His research interests include robust sliding mode control, field robot's dynamics and control, adaptive control for nonlinear systems. Now he is committed to developing advanced robotic systems for the agricultural field, aiming to automate complex tasks and reduce the need for human labor. In the lab, he is mainly working on <a href="https://caseypen.github.io/portfolio/portfolio-G-rov-track/">the robust control of underwater robots</a>.
+    Zhikang Ge earned a Ph.D. in Engineering from the Shenyang Institute of Automation, Chinese Academy of Sciences, in 2024. His research interests include robust sliding mode control, field robot's dynamics and control, adaptive control for nonlinear systems. Now he is committed to developing advanced robotic systems for the agricultural field, aiming to automate complex tasks and reduce the need for human labor. In the lab, he is mainly working on <a href="https://caseypen.github.io/portfolio/portfolio-G-rov-track/">the robust control of underwater robots</a> and <a href="https://caseypen.github.io/portfolio/robust_control_ROV_for_fishnet_inspection/">fishnet inspection</a>.
 </p>
 
 <!-- <details>
@@ -49,7 +49,7 @@ I am working as one of PIs in the Bio-Robot Lab (BRL) under construction. Here i
 
 <img src="../images/yangfang.jpeg" style="float:left;width:100pt;padding-right:10px;"  alt="Fang Yang"/>
 <p>
-    Currently, she is pursuing her doctoral degree at Zhejiang University, with a focus on the advanced field of underwater robotics. Her academic journey has included research on cooperative control and task allocation for multi-unmanned underwater vehicle (MUUV) systems, as well as advancements in acoustic detection. Her current research is centered on the critical area of underwater vehicle localization, specifically for remotely operated vehicles (ROVs) used in mariculture environments. In the lab, her work is mainly working on the localization of ROV in aquaculture settings.
+    Currently, she is pursuing her doctoral degree at Zhejiang University, with a focus on the advanced field of underwater robotics. Her academic journey has included research on cooperative control and task allocation for multi-unmanned underwater vehicle (MUUV) systems, as well as advancements in acoustic detection. Her current research is centered on the critical area of underwater vehicle localization, specifically for remotely operated vehicles (ROVs) used in mariculture environments. In the lab, her work is mainly working on the localization of ROV in aquaculture settings for <a href="https://caseypen.github.io/portfolio/robust_control_ROV_for_fishnet_inspection/">fishnet inspection</a>. 
 </p>
 
 <br clear="all"> 
