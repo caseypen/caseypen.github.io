@@ -40,6 +40,10 @@ I am always looking to collaborate with passionate individuals who share the sam
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
+  <li> <b>[Jun, 2025]</b>. We open sourced our code for headland turning of AAV and will present  <a href="https://agroboticsresearch.github.io/east_planner/"> the work</a> in iROS 2025. Expect to see you in Hangzhou!!</li>
+
+  <li> <b>[Jun, 2025]</b>. An iROS-2025 paper is accepted! It is about <a href="https://agroboticsresearch.github.io/dual_arm_milp/"> dual-arm harvesting</a>. </li>
+
   <li> <b>[Feb, 2025]</b>. Two IROS-2025 papers (Hangzhou) and one IFAC-2025 (Davis) paper were submitted. The contents will be released soon!  </li>
 
   <li> <b>[Jan, 2025]</b>. A new paper was accepted by <b>IEEE RA-L</b> about headland turning for <a href="https://caseypen.github.io/portfolio/portfolio-G-pathplanning-aav/"> the agricultural E-tractor </a>. </li>
