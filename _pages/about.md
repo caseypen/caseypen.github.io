@@ -40,7 +40,9 @@ I am always looking to collaborate with passionate individuals who share the sam
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 <ul style="width: auto; height: 300px; overflow: auto">
   
-  <li> <b>[Jun, 2025]</b>. We open sourced our code for headland turning of AAV and will present  <a href="https://agroboticsresearch.github.io/east_planner/"> the work</a> in iROS 2025. Expect to see you in Hangzhou!!</li>
+  <li> <b>[Sep, 2025]</b>. I am honored to be selected as the chair of the session of   <a href="https://ras.papercept.net/conferences/conferences/IROS25/program/IROS25_ProgramAtAGlanceWeb.html"> Robotics and Automation in Agriculture and Forestry 1 </a> in iROS 2025. Expect to see you in Hangzhou!!</li>
+
+  <li> <b>[Aug, 2025]</b>. We open sourced our code for headland turning of AAV and will present  <a href="https://agroboticsresearch.github.io/east_planner/"> the work</a> in iROS 2025. Expect to see you in Hangzhou!!</li>
 
   <li> <b>[Jun, 2025]</b>. An iROS-2025 paper is accepted! It is about <a href="https://agroboticsresearch.github.io/dual_arm_milp/"> dual-arm harvesting</a>. </li>
 
